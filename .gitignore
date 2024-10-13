@@ -1,0 +1,6 @@
+# dependencies
+/venv/
+
+# output files
+*pyc
+*blog.md# dependencies
