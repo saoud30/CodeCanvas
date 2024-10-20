@@ -1,7 +1,6 @@
 streamlit
 python-dotenv
 groq
-base64
 re
 streamlit-chat
 pygments
